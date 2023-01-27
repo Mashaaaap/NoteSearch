@@ -1,0 +1,24 @@
+.note {
+    width: 40%;
+    padding: 1%;
+    margin: 3% 30%;
+    border: 2px solid black;
+}
+
+#notes {
+    width: 100%;
+    border: 2px solid black;
+}
+
+.noteDelete, .btnDelete {
+    border: none;
+    width: 10%;
+    padding: 1%;
+    margin: 5px;
+    background: rgb(255, 191, 191);
+}
+
+.icon {
+    width: 32px;
+    height: 32px;
+}
